@@ -1,6 +1,6 @@
+import 'package:codingskuy_flutter/levels/level_3_refactor_dungeon/solution/services/task_service.dart';
 import 'package:flutter/material.dart';
-import '../models/task.dart';
-import '../services/task_service.dart';
+import 'models/task.dart';
 import 'widgets/add_task_bar.dart';
 import 'widgets/filter_bar.dart';
 import 'widgets/task_list_item.dart';
